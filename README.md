@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently working on making Ethereum apps easier to build. 
+
 <!--
 **0xMehdiEch/0xMehdiEch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
